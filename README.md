@@ -3,7 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/gradyyoung/slogreat.svg)](https://pkg.go.dev/github.com/gradyyoung/slogreat)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Slogreat** is a high-performance, aesthetically pleasing log handler for Go's `slog` library. Designed for local development, it provides a log reading experience similar to that of Spring Boot.
+**Slogreat** is a high-performance, aesthetically pleasing log handler for Go's `slog` library. 
 
 *Read this in other languages: [中文版 (Chinese)](README_zh.md)*
 

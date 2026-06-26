@@ -3,7 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/gradyyoung/slogreat.svg)](https://pkg.go.dev/github.com/gradyyoung/slogreat)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Slogreat** 是一个基于 Go 标准库 `slog` 的高性能、高颜值日志美化处理器。它专为开发环境设计，旨在提供类似 Spring Boot 的日志阅读体验。
+**Slogreat** 是一个基于 Go 标准库 `slog` 的高性能、高颜值日志美化处理器。
 
 ### 🌟 核心特性
 - **现代化样式**：色彩分明，布局整洁。
